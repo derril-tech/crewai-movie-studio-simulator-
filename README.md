@@ -2,8 +2,6 @@
 # 🎬 Movie Studio Simulator
 **Powered by CrewAI + OpenAI**
 
-🌐 **[View Live Application](https://crewai-movie-studio-simulator-pkd4.vercel.app)**
-
 > **Transform movie concepts into complete productions. Enter a genre, setting, and logline, and watch a multi-agent AI film crew generate script outlines, character bios, budgets, and marketing materials—all in one seamless workspace.** ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -213,8 +211,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 <div align="center">
-
-[Live Demo](https://crewai-movie-studio-simulator-pkd4.vercel.app) 
 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
